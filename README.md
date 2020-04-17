@@ -19,6 +19,10 @@ Novostella RGB-CCT Flood Lights: https://amzn.to/2rV1zak
 Firmware: https://github.com/thehookup/E131-MQTT-RGBW-Lights/blob/master/E131RGBW_MQTT_Novostella.ino
 
 
+AXTEE Smart Light Bulb RGB-CCT: http://amzn.com/B07G5M8FKG
+Firmware: https://github.com/thehookup/E131-MQTT-RGBW-Lights/blob/master/E131RGBW_MQTT_AXTEE_HTTPupdater.ino
+  - includes HTTP page for firmware updates instead of OTA - make sure to modify the login info
+
 Firmware is uploaded for the Sonoff B1, I highly recommend using the Lohas instead, they are cheaper and have better white and color performance.
 
 ## Use These upload settings:
